@@ -8,3 +8,5 @@
 	Paxos uses maven for its buildsystem. Compile with
 	
 	$ mvn install
+	
+	etst
